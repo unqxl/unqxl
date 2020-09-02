@@ -1,4 +1,4 @@
-#### Приветствуюb!<br>Я - bad-boy-discord.<br>Увелкаюсь программированием на JavaScript.
+#### Приветствую!<br>Я - bad-boy-discord.<br>Увелкаюсь программированием на JavaScript.
 ![из](https://img.shields.io/badge/from-russia-blue?style=for-the-badge) ![discord](https://img.shields.io/badge/discord-bad%20boy%231046-blue?style=for-the-badge)
 
 - 👍 Работаю над: [Misha](https://github.com/bad-boy-discord/Misha-Discord_Bot), [InviteTracker(v2)](https://github.com/bad-boy-discord/InviteTracker_DiscordBot), а так же **LoggingBot**, к сожалению, здесь нет его репозитория.
