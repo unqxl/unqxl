@@ -1,10 +1,10 @@
 #### Приветствую!<br>Я - bad-boy-discord.<br>Увелкаюсь программированием на JavaScript.
 ![из](https://img.shields.io/badge/from-russia-blue?style=for-the-badge) ![discord](https://img.shields.io/badge/discord-bad%20boy%231046-blue?style=for-the-badge)
 
-- 👍 Работаю над: [Misha](https://github.com/bad-boy-discord/Misha-Discord_Bot), [InviteTracker(v2)](https://github.com/bad-boy-discord/InviteTracker_DiscordBot), а так же **LoggingBot**, к сожалению, здесь нет его репозитория.
+- 👍 Работаю над: [Misha](https://github.com/bad-boy-discord/Misha-Discord_Bot), [Eternal](https://github.com/bad-boy-discord/Eternal-docs).
 - 📕 Изучаю: **JavaScript**, **HTML**, **CSS**
 - 😐 Пока что не думаю коллаборировать с людьми.
-- ✌ Один из крупных проектов: **[Misha](https://github.com/bad-boy-discord/Misha-Discord_Bot)**
+- ✌ Один из крупных проектов: **[Eternal](https://github.com/bad-boy-discord/Eternal-docs)**
 - 💬 Если у вас имеются вопросы, обращайтесь в дискорд **bad boy#1046**
 - ⚡ Хорошо знаю языки: <br>
   <img height="20" width="20" src="https://raw.githubusercontent.com/bad-boy-discord/bad-boy-discord/master/img/javascript.png">
