@@ -8,7 +8,8 @@
 - 💬 Если у вас имеются вопросы, обращайтесь в дискорд **goose#1046**
 - ⚡ Хорошо знаю языки: **JavaScript**
   
-[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=bad-boy-discord&show_owner=true&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=false&hide_rank=false&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=bad-boy-discord&show_owner=true&show_icons=true&title_color=ddd&text_color=bbb&bg_color=2f3136&hide_border=false&hide_rank=false&count_private=false&include_all_commits=true)](https://github.com/bad-boy-discord)
 
 ### Часто используемые языки
 <img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=bad-boy-discord&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
+f
