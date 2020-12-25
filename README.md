@@ -12,4 +12,3 @@
 
 ### Часто используемые языки
 <img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=bad-boy-discord&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
-f
