@@ -11,7 +11,7 @@
 ## Статистика
 <details>
   
-  [![My Stats](https://github-readme-stats.vercel.app/api?username=bad-boy-discord&show_icons=true&theme=dark)](https://github.com/bad-boy-discord)
+  [![My Stats](https://github-readme-stats.vercel.app/api?username=bad-boy-discord&show_icons=true&theme=dark)](https://github.com/bad-boy-discord)<br>
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=badboydiscord&theme=dark&day)](https://github.com/bad-boy-discord)<br>
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-boy-discord&theme=dark)](https://github.com/bad-boy-discord)
   
