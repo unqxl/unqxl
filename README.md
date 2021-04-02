@@ -9,5 +9,10 @@
 - ⚡ Хорошо знаю языки: **JavaScript**
 
 ## Статистика
-[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=bad-boy-discord&show_owner=true&show_icons=true&title_color=ddd&text_color=bbb&bg_color=000&hide_border=false&hide_rank=false&count_private=false&include_all_commits=true)](https://github.com/bad-boy-discord)
-<img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=bad-boy-discord&theme=dark&hide=lua,dart&hide_title=true" />
+<details>
+  
+  [![My Stats](https://github-readme-stats.vercel.app/api?username=bad-boy-discord&show_icons=true&theme=dark)](https://github.com/bad-boy-discord)
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=badboydiscord&theme=dark)](https://github.com/bad-boy-discord)<br>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-boy-discord&theme=dark)](https://github.com/bad-boy-discord)
+  
+</details>
