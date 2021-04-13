@@ -1,4 +1,4 @@
-#### Приветствую!<br>Я - bad-boy-discord.<br>Увелкаюсь программированием на JavaScript.
+#### Приветствую!<br>Я - bad-boy-discord.<br>Увелкаюсь программированием на JavaScript и TypeScript (недавно)
 ![из](https://img.shields.io/badge/from-russia-blue?style=for-the-badge) ![discord](https://img.shields.io/badge/discord-goose%231046-blue?style=for-the-badge)
 
 - 👍 Работаю над: <b>[Misha](https://github.com/bad-boy-discord/Misha_INFO), [Eternal](https://github.com/bad-boy-discord/Eternal-docs), goose</b>
