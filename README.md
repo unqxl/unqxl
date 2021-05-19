@@ -10,5 +10,5 @@
 - ⚡ Хорошо знаю языки: **JavaScript**, **TypeScript**
 
 ## Статистика
-[![My Stats](https://github-readme-stats.vercel.app/api?username=bad-boy-discord&show_icons=true&theme=dark&count_private=true)](https://github.com/bad-boy-discord)
 [![bad-boy-discord's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=badboydiscord&theme=dark)](https://github.com/bad-boy-discord)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=bad-boy-discord&show_icons=true&theme=dark&count_private=true)](https://github.com/bad-boy-discord)
