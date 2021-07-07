@@ -1,12 +1,11 @@
 ### Welcome!
-<b>Discord: goose#1046</b><br>
-<b>Location: Russia</b><br>
+**Discord: goose#1046**<br>
+**Location: Russia**<br>
 
-- 👍 Работаю над: <b>goose</b>
-- 📕 Изучаю: **JavaScript**, **TypeScript**, **HTML**, **CSS**
+- 👍 Работаю над: **[goose](https://top.gg/bot/819564452722376745)** | **[new-discord-leveling](https://npmjs.com/package/new-discord-leveling)** | **[discord-moderation](https://npmjs.com/package/discord-moderation)**
+- 📕 Изучаю: **JavaScript** | **TypeScript** | **Vue**
 - 😐 Пока что не думаю коллаборировать с людьми.
-- ✌ Один из крупных проектов: **[Eternal](https://github.com/bad-boy-discord/Eternal-docs)**
-- 💬 Если у вас имеются вопросы, обращайтесь в дискорд **goose#1046**
+- ✌ Один из крупных проектов: **[goose](https://top.gg/bot/819564452722376745)**
 - ⚡ Хорошо знаю языки: **JavaScript**, **TypeScript**
 
 ## Статистика
