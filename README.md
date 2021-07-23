@@ -1,5 +1,5 @@
 ### Welcome!
-**Discord: badboy-discord#6352**<br>
+**Discord: goose#1046 (резерв: badboy-discord#6352)**<br>
 **Location: Russia**<br>
 
 - 👍 Работаю над: **[goose](https://top.gg/bot/819564452722376745)** | **[new-discord-leveling](https://npmjs.com/package/new-discord-leveling)** | **[discord-moderation](https://npmjs.com/package/discord-moderation)**
