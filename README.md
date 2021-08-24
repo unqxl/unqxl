@@ -7,6 +7,7 @@
 - 😐 Don't ready for coopirate.
 - ✌ One of Big Projects: **[goose](https://top.gg/bot/819564452722376745)**
 - ⚡ Known Languages for Me: **JavaScript**, **TypeScript**
+- 💻 View my Portfolio: **[Click](https://badboydiscord.tk/)**
 
 ## Statistics
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=badboydiscord&theme=dark)](https://github.com/bad-boy-discord)
