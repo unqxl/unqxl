@@ -6,8 +6,8 @@
 <hr>
 
 - 👍 Working on: **[goose](https://top.gg/bot/819564452722376745)** | **[new-discord-leveling](https://npmjs.com/package/new-discord-leveling)** | **[discord-moderation](https://npmjs.com/package/discord-moderation)**
-- 📕 Learning: **Vue**
-- 😐 Don't ready for coopirate.
+- 📕 Learning: **Nothing**
+- 😐 Don't ready for collaborate.
 - ✌ One of Big Projects: **[goose](https://top.gg/bot/819564452722376745)**
 - ⚡ Known Languages for Me: **JavaScript**, **TypeScript**
 - 💻 View my Portfolio: **[Click](https://badboydiscord.tk/)**
