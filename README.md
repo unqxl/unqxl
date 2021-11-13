@@ -5,7 +5,7 @@
 
 <hr>
 
-- 👍 Working on: **Akayo (verifying in Top.GG)** and **[discord-moderation](https://npmjs.com/package/discord-moderation)**
+- 👍 Working on: **[Akayo](https://top.gg/bot/891819280318996501)** and **[discord-moderation](https://npmjs.com/package/discord-moderation)**
 - 📕 Learning: **TypeScript**
 - 😐 Don't ready for collaborate.
 - ✌ One of Big Projects: **[goose](https://top.gg/bot/819564452722376745)**
