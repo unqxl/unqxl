@@ -5,8 +5,8 @@
 
 <hr>
 
-- 👍 Working on: **[Akayo](https://top.gg/bot/891819280318996501)** and **[discord-moderation](https://npmjs.com/package/discord-moderation)**
+- 👍 Working on: **[Akayo](https://top.gg/bot/891819280318996501)** and **[discordjs-economy](https://npmjs.com/package/@badboy-discord/discordjs-economy)**
 - 📕 Learning: **TypeScript**
 - 😐 Don't ready for collaborate.
-- ✌ One of Big Projects: **[goose](https://top.gg/bot/819564452722376745)**
+- ✌ One of Big Projects: **[Akayo](https://top.gg/bot/891819280318996501)**
 - ⚡ Most Known Languages for Me: **JavaScript**, **TypeScript**
