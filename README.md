@@ -5,7 +5,7 @@
 
 <hr>
 
-- 👍 Working on: **[Akayo](https://top.gg/bot/891819280318996501)** and **[discordjs-economy](https://npmjs.com/package/@badboy-discord/discordjs-economy)**
+- 👍 Working on: **[Akayo](https://github.com/bad-boy-discord/akayo-bot)**
 - 📕 Learning: **TypeScript**
 - 😐 Don't ready for collaborate.
 - ✌ One of Big Projects: **[Akayo](https://top.gg/bot/891819280318996501)**
