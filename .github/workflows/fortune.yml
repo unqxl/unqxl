@@ -1,0 +1,13 @@
+name: Fortune
+on:
+  schedule: [{cron: "0 0 1 * *"}]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes
