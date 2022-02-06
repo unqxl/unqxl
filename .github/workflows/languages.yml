@@ -8,6 +8,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_aliases: javascript:JS typescript:TS
