@@ -1,3 +1,8 @@
+## Profile Information
 ![Metrics](/github-metrics.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=badboydiscord&theme=dark" alt="Sublime's custom image"/>
+## WakaTime Statistics
+![WakaTime](/metrics.plugin.wakatime.svg)
+
+## Fortune
+![Fortune](/metrics.plugin.fortune.svg)
