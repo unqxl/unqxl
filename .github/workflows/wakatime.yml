@@ -1,6 +1,7 @@
 name: WakaTime
 on:
   schedule: [{cron: "0 0 * * 1"}]
+  push: {branches: ["master", "main"]}
 jobs:
   wakatime: 
     runs-on: ubuntu-latest
