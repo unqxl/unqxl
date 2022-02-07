@@ -1,6 +1,6 @@
 name: Fortune
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
