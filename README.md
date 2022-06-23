@@ -1,8 +1,1 @@
-## Profile Information
-![Metrics](/github-metrics.svg)
-
-## WakaTime Statistics
-![WakaTime](/metrics.plugin.wakatime.svg)
-
-## Fortune
-![Fortune](/metrics.plugin.fortune.svg)
+![Metrics](https://metrics.lecoq.io/bad-boy-discord?template=classic&languages=1&introduction=1&wakatime=1&lines=1&notable=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=typescript%3ATS&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Europe%2FMoscow&config.twemoji=true)
