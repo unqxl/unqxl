@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: bad-boy-discord
+          user: unqxl
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
