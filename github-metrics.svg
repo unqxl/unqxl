@@ -8,7 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/jpg;base64,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" width="20" height="20" />
+                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="20" height="20" />
                     <span>unqxl</span>
                 </h1>
                 <div class="row">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    145k added, 113k removed
+                                    18k added, 2.16k removed
                                 </div>
                             </section>
                             <section>
@@ -395,7 +395,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 19:05:03 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 20:06:54 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
